@@ -77,6 +77,31 @@ This will run the code for challenge XX.
 - [ ] Challenge 47: Bleichenbacher's PKCS 1.5 Padding Oracle (Simple Case)
 - [ ] Challenge 48: Bleichenbacher's PKCS 1.5 Padding Oracle (Complete Case)
 
+### Set 7 - Hashes
+
+- [ ] Challenge 49: CBC-MAC Message Forgery
+- [ ] Challenge 50: Hashing with CBC-MAC
+- [ ] Challenge 51: Compression Ratio Side-Channel Attacks
+- [ ] Challenge 52: Iterated Hash Function Multicollisions
+- [ ] Challenge 53: Kelsey and Schneier's Expandable Messages
+- [ ] Challenge 54: Kelsey and Kohno's Nostradamus Attack
+- [ ] Challenge 55: MD4 Collisions
+- [ ] Challenge 56: RC4 Single-Byte Biases
+      
+### Set 8 - Abstract Algebra
+
+- [ ] Challenge 57: Diffie-Hellman Revisited: Small Subgroup Confinement
+- [ ] Challenge 58: Pollard's Method for Catching Kangaroos
+- [ ] Challenge 59: Elliptic Curve Diffie-Hellman and Invalid-Curve Attacks
+- [ ] Challenge 60: Single-Coordinate Ladders and Insecure Twists
+- [ ] Challenge 61: Duplicate-Signature Key Selection in ECDSA (and RSA)
+- [ ] Challenge 62: Key-Recovery Attacks on ECDSA with Biased Nonces
+- [ ] Challenge 63: Key-Recovery Attacks on GCM with Repeated Nonces
+- [ ] Challenge 64: Key-Recovery Attacks on GCM with a Truncated MAC
+- [ ] Challenge 65: Truncated-MAC GCM Revisited: Improving the Key-Recovery Attack via Ciphertext Length Extension
+- [ ] Challenge 66: Exploiting Implementation Errors in Diffie-Hellman
+
+
 ## Disclaimer
 As the purpose of these challenges is educational, I have reimplemented a lot of functionality instead of using library functions or crates. Of course these reimplementations are in no way supposed to be used for anything serious and you should always refer to an official library instead.
 
